@@ -1,0 +1,3 @@
+﻿  Player.cpp
+C:\JumpToDeath\JumpToDeath\Source\GameObjects\CollisionMap\Block.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  JumpToDeath.vcxproj -> C:\JumpToDeath\x64\Debug\JumpToDeath.exe
